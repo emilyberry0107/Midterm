@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    background-color: bisque;
+}
+h1{
+    font-size: 50px;
+    background-color: skyblue;
+    text-align: center;
+}
+h2,h3{
+    font-size: 25px;
+}
+h4{
+    font-size: 35px;
+    background-color: skyblue;
+    text-align: center;
+}
+h5{
+    font-size: 25px;
+}
+h6{
+    font-size: 35px;
+    background-color: skyblue;
+    text-align: center;
+}
+h7{
+    font-size: 25px;
+    font-weight: bold;
+}
+a{
+    position: fixed;
+    bottom:10vh;
+    font-size: 25px;
+    text-decoration: none;
+    color: red;
+}
