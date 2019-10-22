@@ -20,6 +20,8 @@ h5{
 }
 h6{
     font-size: 35px;
+    background-color: skyblue;
+    text-align: center;
 }
 h7{
     font-size: 25px;
